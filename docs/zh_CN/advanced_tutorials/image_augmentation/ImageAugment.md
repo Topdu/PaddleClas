@@ -546,4 +546,4 @@ sh tools/train.sh
 [test_randomerassing]: ../../../images/image_aug/test_randomerassing.jpeg
 [hide_and_seek_mask_expanation]: ../../../images/image_aug/hide-and-seek-visual.png
 [test_mixup]: ../../../images/image_aug/test_mixup.png
-[test_cutmix]: ../../../images/image_aug/test_cutmix.png
+[test_cutmix]: ../../../images/image_aug/test_cutmix.png 
